@@ -1,0 +1,10 @@
+1. What is the distribution of curb weight among different car makes?
+2. Can we visualize the relationship between symboling and price using a scatter plot?
+3. How do normalized losses vary across different body styles?
+4. Is there a correlation between car height and price?
+5. Which car make has the highest average price?
+6. Are there any noticeable trends between curb weight and normalized losses?
+7. Can we visualize the distribution of symboling for each body style using a histogram?
+8. What is the distribution of prices for each car make?
+9. How does the average curb weight differ between body styles?
+10. Can we create a dashboard showing the relationship between price, symboling, and normalized losses for different car makes?
